@@ -16,7 +16,7 @@ located in the root 'Marlin' folder. Check the example_configurations folder to
 see if there's a more suitable starting-point for your specific hardware.
 
 Before diving in, we recommend the following essential links:
-
+ 
 Marlin Firmware Official Website
 
   - http://marlinfw.org/
